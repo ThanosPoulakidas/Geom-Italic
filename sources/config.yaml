@@ -1,0 +1,6 @@
+sources:
+  - Geom-Italic[wght].glyphs
+axisOrder:
+  - wght
+familyName: Geom
+removeOutlineOverlaps: false
